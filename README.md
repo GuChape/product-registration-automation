@@ -27,6 +27,8 @@ pip install -r requirements.txt
 2. Execute o script:
 python main.py
 
+## Problema resolvido
+Automatiza o cadastro manual de produtos em sistemas web, reduzindo tempo e erros humanos.
 
 ## Observações
 - As coordenadas do mouse podem variar conforme a resolução da tela
